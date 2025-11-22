@@ -99,6 +99,6 @@ silver_transform.py, gold_transform.py, visualize_olympics.py
 
 Bronze/Silver/Gold data layers
 
-7 PNG visualisation files (or more if extended)
+7 PNG visualisation files 
 
 A fully working Paris Olympics data engineering workflow
